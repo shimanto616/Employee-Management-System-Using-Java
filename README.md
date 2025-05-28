@@ -1,2 +1,2 @@
 # Employee-Management-System-Using-Java
-This Employee Management System using Java is a simple app to add, update, delete, and view employee data, making HR tasks easier and more efficient for small to medium organizations.
+This Employee Management System using Java is a simple app to add, update, delete, and view employee data, making HR tasks easier and more efficient for small to medium organizations. There is no database used on this project it works simply on file handling. The employee and admin information will be saved to the directory as a txt file. Each employee/admin will have different txt file for them
